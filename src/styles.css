@@ -1,0 +1,8 @@
+body {
+  background: #f8e8a6;
+}
+
+user agent stylesheet body {
+  display: block;
+  margin: 8px;
+}
